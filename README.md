@@ -2,6 +2,8 @@
 
 This is a Laravel 5.3 with AngularJS 2 setup.
 
+The Heroes tour tutorials from AngularJS docs is used in this repository.
+
 ## Installation
 
 In your terminal:
