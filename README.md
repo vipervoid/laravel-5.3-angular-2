@@ -18,6 +18,16 @@ Run `composer install`
 
 We only need to launch the mysql and apache/nginx web server.
 
+For development:
+
+Run `php artisan serve`
+
+To transpile typescript and watch for file changes:
+
+Run `npm start`
+
+Note that this does not include npm lite-server because we already have laravel's local server running.
+
 ## Notes
 
 The AngularJS 2 lives on public/app and the main template file is app.blade.php.
